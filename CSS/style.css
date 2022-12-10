@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+/* google-img */
+.gimg {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+/* container */
+.container {
+    width: 1500px;
+    height: 755px;
+    padding: 20px;
+    background-color: white;
+    position: relative;
+    margin: auto;
+    text-align: center;
+}
+/* search-bar */
+.center {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    height: 62px;
+    background-color: #EEEEEE;
+}
+.center p {
+    margin: 0;
+    padding: 0;
+}
+/* blue-boxes */
+.blue-boxes {
+    text-align: center;
+}
+/* box1 w490xh77 */
+.box1 {
+    list-style: none;
+    width: 490px;
+    height: 77px;
+    float: left;
+    margin: 1px;
+    background-color: #7ee5da;
+
+}
+.box1 p{
+    margin: 0;
+    text-align: center;
+}
+.box1 li {
+    list-style: none;
+}
+/* box2 w276xh77 */
+.box2 {
+    list-style: none;
+    width: 446px;
+    height: 77px;
+    float: left;
+    margin: 1px;
+    background-color: #70ccc2;
+    overflow:hidden;
+}
+.box2 li {
+    list-style: none;
+    margin: 0;
+}
+/* box3 w558xh77 */
+.box3 {
+    list-style: none;
+    width: 558px;
+    height: 77px;
+    float: left;
+    margin: 1px;
+    background-color: #62b3aa;
+}
+.box3 p{
+    margin: 0;
+    text-align: center;
+}
+.box3 li {
+    list-style: none;
+}
+#archive {
+    font-size: -1;
+}
